@@ -1,4 +1,3 @@
-
 FROM blosshom/php:7.1
 MAINTAINER Aurélien Lavorel <contact@blosshom.com>
 
