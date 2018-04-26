@@ -1,4 +1,4 @@
-FROM lavoweb/php-7.0
+FROM blosshom/php
 MAINTAINER Aurélien Lavorel <contact@blosshom.com>
 
 RUN pecl install xdebug
